@@ -136,7 +136,3 @@ Following are the highways to be targeted as these highways haveing the highest 
 1. Kolkata- Nagpur
 1. Chennai- Nagpur
 1. Mumbai - Bengaluru Highway
-
-9\. Github
-
-Harshal Jagtap https://github.com/harshaljagtap6/ev\_market\_segmentaion
